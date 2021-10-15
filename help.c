@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
-#define FILENAME "/home/boss/Desktop/slam/tracklist.sex"   //Replace with your own tracklist directory (preferably - same folder as your songs)
-#define MUSIC_DIRECTORY "/home/boss/Desktop/slam"          //Replace with your own music directory
+#define FILENAME "~/Music/tracklist.sex"   //Replace with your own tracklist directory (preferably - same folder as your songs)
+#define MUSIC_DIRECTORY "~/Music"          //Replace with your own music directory
 #define CSGO_DIRECTORY "~/.local/share/Steam/steamapps/common/'Counter-Strike Global Offensive'"  //Replace with your CS:GO directory
 int lastpath;
 int line = 4;
