@@ -13,4 +13,6 @@ In order to be able to play the songs in-game, you have to create a config file 
 1. Navigate to your CS:GO config folder (common location: `~/.steam/steam/userdata/[YOUR_USER_ID]/730/local/cfg/`)
 2. Copy the file `jarvis.cfg` from the github project into the aforementioned folder
 3. Load the config while in-game by typing `jarvis` in the CS:GO console
-4. Load a song to be played using jarvis application from before and play it using the key `X` (can be changed in the config). *Sidenote: The loaded song will stay in the CS:GO directory until another song is loaded.*
+4. Load a song to be played using jarvis application from before and play it using the key `X` (can be changed in the config). 
+
+*Sidenote: The loaded song will stay in the CS:GO directory until another song is loaded.*
