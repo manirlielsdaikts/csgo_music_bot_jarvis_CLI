@@ -1,3 +1,4 @@
+#Copyright © 1776-2021, CSI & el sexo, Inc. No rights deserved.
 #include <stdlib.h>
 #include <stdio.h>
 #define FILENAME "~/Music/tracklist.sex"   //Replace with your own tracklist directory (preferably - same folder as your songs)
