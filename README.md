@@ -7,8 +7,7 @@ A Linux music bot with a simple CLI for loading songs.
     * Frequency of 22050Hz
     * 16 bit audio
     * Only 1 audio channel
-* These specifications can be met by converting your files to .wav (google how to do it, there are many ways to do so, but i recommend using `ffmpeg`) and then using `sox` to convert them to the specific specifications by running the command:
- `sox "[INPUT_FILENAME]" -r 22050 -c 1 -b 16 "[OUTPUT_FILENAME]"`. The input and output filenames **must** be different, as sox likes to complain when it has to overwrite the file that it is converting. Also aliasing `sox` to `sex` is preferable but not neccessary.
+* These specifications can be met by converting your files to .wav (google how to do it, there are many ways to do so, but i recommend using `ffmpeg`) and then using `sox` to convert them to the specific specifications by running the command: `sox "[INPUT_FILENAME]" -r 22050 -c 1 -b 16 "[OUTPUT_FILENAME]"`. The input and output filenames **must** be different, as sox likes to complain when it has to overwrite the file that it is converting. Also aliasing `sox` to `sex` is preferable but not neccessary.
 ## Compilation
 1. Download files `main.c` and `help.c`
 2. Edit the directories in `help.c` in order for them to match your music and CS:GO folder locations, as well as choose where and in what file to store the list of your music
