@@ -1,5 +1,5 @@
 # csgo_music_bot_jarvis_CLI
-A Linux music bot with a simple CLI for loading songs.
+A Linux music bot with a simple CLI for loading songs in CS:GO.
 # Installation (compile from source)
 ## Prerequisites
 * Have `gcc` and `ncurses` installed (ncurses come default with modern gcc installations)
