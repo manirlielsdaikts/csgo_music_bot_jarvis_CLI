@@ -26,4 +26,4 @@ In order to be able to play the songs in-game, you have to create a config file 
 The C - Application `jarvis` basically takes a song from a directory, copies it into your CS:GO directory and renames it to 'voice_input.wav'. CS:GO and some other source games have a command that plays this waveform file as your in-game voice input audio. After pressing the key that is aliased in the config (`X` by default), it loads the aforementioned audio file as your voice input, makes it so that you don't have to hold your push-to-talk key to speak in-game and also that you can hear your own voice input audio. Afterwards, it rebinds the same key to do the opposite, so when you press it again, everything is back to normal. This won't give you any problems with VAC (most likely, i am not responsible for your misfortunes while using my application), but it can get you muted if too many people report you for abusive voice communications.
 
 ### Common bugs:
-it doesn't recognize 100% of the songs at the end of the directory and i don't have the willpower to investigate as to why
+none
