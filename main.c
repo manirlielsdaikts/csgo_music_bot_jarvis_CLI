@@ -40,4 +40,5 @@ void updateTracklist(){
       }
       free(namelist);
    }
+   fclose(tracklist);
 }
